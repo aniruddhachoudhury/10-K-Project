@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<response>
+  <result>
+    <totalrows>5</totalrows>
+    <rows>
+      <row>
+        <rownum>1</rownum>
+        <values>
+          <value field="taxonomyid">50</value>
+          <value field="cik">0000072971</value>
+          <value field="companyname">WELLS FARGO &amp; COMPANY/MN</value>
+          <value field="entityid">8130</value>
+          <value field="primaryexchange">NYSE</value>
+          <value field="marketoperator">NYSE</value>
+          <value field="markettier">NYSE</value>
+          <value field="primarysymbol">WFC</value>
+          <value field="siccode">6021</value>
+          <value field="sicdescription">National Commercial Banks</value>
+          <value field="usdconversionrate">1</value>
+          <value field="restated">false</value>
+          <value field="receiveddate">2/27/2019</value>
+          <value field="preliminary">false</value>
+          <value field="periodlengthcode">m</value>
+          <value field="periodlength">12</value>
+          <value field="periodenddate">12/31/2018</value>
+          <value field="original">true</value>
+          <value field="formtype">10-K</value>
+          <value field="fiscalyear">2018</value>
+          <value field="fiscalquarter">4</value>
+          <value field="dcn">0000072971-19-000227</value>
+          <value field="currencycode">USD</value>
+          <value field="crosscalculated">false</value>
+          <value field="audited">true</value>
+          <value field="amended">false</value>
+          <value field="changeincurrentassets">-32725000000</value>
+          <value field="changeincurrentliabilities">-865000000</value>
+          <value field="dividendspaid">-9314000000</value>
+          <value field="cashfromfinancingactivities">-70979000000</value>
+          <value field="cashfrominvestingactivities">-7754000000</value>
+          <value field="cashfromoperatingactivities">36073000000</value>
+          <value field="cfdepreciationamortization">5593000000</value>
+          <value field="investmentchangesnet">11015000000</value>
+          <value field="netchangeincash">-42660000000</value>
+          <value field="totaladjustments">13197000000</value>
+          <value field="equityearnings">1515000000</value>
+          <value field="incomebeforetaxes">27023000000</value>
+          <value field="netincome">22393000000</value>
+          <value field="netincomeapplicabletocommon">20689000000</value>
+          <value field="totalrevenue">83149000000</value>
+          <value field="sellinggeneraladministrativeexpenses">33024000000</value>
+          <value field="commonstock">9136000000</value>
+          <value field="cashandcashequivalents">173287000000</value>
+          <value field="cashcashequivalentsandshortterminvestments">253494000000</value>
+          <value field="goodwill">26418000000</value>
+          <value field="minorityinterest">900000000</value>
+          <value field="otherassets">106712000000</value>
+          <value field="othercurrentliabilities">1286170000000</value>
+          <value field="otherequity">-1502000000</value>
+          <value field="otherliabilities">8499000000</value>
+          <value field="preferredstock">23214000000</value>
+          <value field="propertyplantequipmentnet">8920000000</value>
+          <value field="retainedearnings">158163000000</value>
+          <value field="totalassets">1895883000000</value>
+          <value field="totalliabilities">1699717000000</value>
+          <value field="totallongtermdebt">229044000000</value>
+          <value field="totalreceivablesnet">960502000000</value>
+          <value field="totalshorttermdebt">105787000000</value>
+          <value field="totalstockholdersequity">196166000000</value>
+          <value field="treasurystock">-47194000000</value>
+        </values>
+      </row>
+      <row>
+        <rownum>2</rownum>
+        <values>
+          <value field="taxonomyid">50</value>
+          <value field="cik">0000072971</value>
+          <value field="companyname">WELLS FARGO &amp; COMPANY/MN</value>
+          <value field="entityid">8130</value>
+          <value field="primaryexchange">NYSE</value>
+          <value field="marketoperator">NYSE</value>
+          <value field="markettier">NYSE</value>
+          <value field="primarysymbol">WFC</value>
+          <value field="siccode">6021</value>
+          <value field="sicdescription">National Commercial Banks</value>
+          <value field="usdconversionrate">1</value>
+          <value field="restated">false</value>
+          <value field="receiveddate">2/27/2019</value>
+          <value field="preliminary">false</value>
+          <value field="periodlengthcode">m</value>
+          <value field="periodlength">12</value>
+          <value field="periodenddate">12/31/2017</value>
+          <value field="original">false</value>
+          <value field="formtype">10-K</value>
+          <value field="fiscalyear">2017</value>
+          <value field="fiscalquarter">4</value>
+          <value field="dcn">0000072971-19-000227</value>
+          <value field="currencycode">USD</value>
+          <value field="crosscalculated">false</value>
+          <value field="audited">true</value>
+          <value field="amended">false</value>
+          <value field="changeincurrentassets">-45292000000</value>
+          <value field="changeincurrentliabilities">4837000000</value>
+          <value field="dividendspaid">-9109000000</value>
+          <value field="cashfromfinancingactivities">-10920000000</value>
+          <value field="cashfrominvestingactivities">-13152000000</value>
+          <value field="cashfromoperatingactivities">18619000000</value>
+          <value field="cfdepreciationamortization">5406000000</value>
+          <value field="investmentchangesnet">6927000000</value>
+          <value field="netchangeincash">-5453000000</value>
+          <value field="totaladjustments">-3841000000</value>
+          <value field="equityearnings">1779000000</value>
+          <value field="incomebeforetaxes">25598000000</value>
+          <value field="netincome">22183000000</value>
+          <value field="netincomeapplicabletocommon">20554000000</value>
+          <value field="totalrevenue">84082000000</value>
+          <value field="sellinggeneraladministrativeexpenses">33371000000</value>
+          <value field="commonstock">9136000000</value>
+          <value field="cashandcashequivalents">215947000000</value>
+          <value field="cashcashequivalentsandshortterminvestments">295972000000</value>
+          <value field="goodwill">26587000000</value>
+          <value field="minorityinterest">1143000000</value>
+          <value field="otherassets">117521000000</value>
+          <value field="othercurrentliabilities">1335991000000</value>
+          <value field="otherequity">-1678000000</value>
+          <value field="otherliabilities">8796000000</value>
+          <value field="preferredstock">25358000000</value>
+          <value field="propertyplantequipmentnet">8847000000</value>
+          <value field="retainedearnings">145263000000</value>
+          <value field="totalassets">1951757000000</value>
+          <value field="totalliabilities">1744821000000</value>
+          <value field="totallongtermdebt">225020000000</value>
+          <value field="totalreceivablesnet">966967000000</value>
+          <value field="totalshorttermdebt">103256000000</value>
+          <value field="totalstockholdersequity">206936000000</value>
+          <value field="treasurystock">-29892000000</value>
+        </values>
+      </row>
+      <row>
+        <rownum>3</rownum>
+        <values>
+          <value field="taxonomyid">50</value>
+          <value field="cik">0000072971</value>
+          <value field="companyname">WELLS FARGO &amp; COMPANY/MN</value>
+          <value field="entityid">8130</value>
+          <value field="primaryexchange">NYSE</value>
+          <value field="marketoperator">NYSE</value>
+          <value field="markettier">NYSE</value>
+          <value field="primarysymbol">WFC</value>
+          <value field="siccode">6021</value>
+          <value field="sicdescription">National Commercial Banks</value>
+          <value field="usdconversionrate">1</value>
+          <value field="restated">false</value>
+          <value field="receiveddate">2/27/2019</value>
+          <value field="preliminary">false</value>
+          <value field="periodlengthcode">m</value>
+          <value field="periodlength">12</value>
+          <value field="periodenddate">12/31/2016</value>
+          <value field="original">false</value>
+          <value field="formtype">10-K</value>
+          <value field="fiscalyear">2016</value>
+          <value field="fiscalquarter">4</value>
+          <value field="dcn">0000072971-19-000227</value>
+          <value field="currencycode">USD</value>
+          <value field="crosscalculated">false</value>
+          <value field="audited">true</value>
+          <value field="amended">false</value>
+          <value field="changeincurrentassets">-76479000000</value>
+          <value field="changeincurrentliabilities">-211000000</value>
+          <value field="dividendspaid">-9038000000</value>
+          <value field="cashfromfinancingactivities">122791000000</value>
+          <value field="cashfrominvestingactivities">-141919000000</value>
+          <value field="cashfromoperatingactivities">1008000000</value>
+          <value field="cfdepreciationamortization">4970000000</value>
+          <value field="investmentchangesnet">-56269000000</value>
+          <value field="netchangeincash">-18120000000</value>
+          <value field="totaladjustments">-21037000000</value>
+          <value field="equityearnings">1103000000</value>
+          <value field="incomebeforetaxes">31017000000</value>
+          <value field="netincome">21938000000</value>
+          <value field="netincomeapplicabletocommon">20373000000</value>
+          <value field="totalrevenue">83394000000</value>
+          <value field="sellinggeneraladministrativeexpenses">31893000000</value>
+          <value field="commonstock">9136000000</value>
+          <value field="cashandcashequivalents">20729000000</value>
+          <value field="cashcashequivalentsandshortterminvestments">286767000000</value>
+          <value field="goodwill">26693000000</value>
+          <value field="minorityinterest">916000000</value>
+          <value field="otherassets">143404000000</value>
+          <value field="othercurrentliabilities">1306079000000</value>
+          <value field="otherequity">-1565000000</value>
+          <value field="otherliabilities">14492000000</value>
+          <value field="preferredstock">24551000000</value>
+          <value field="propertyplantequipmentnet">8333000000</value>
+          <value field="retainedearnings">133075000000</value>
+          <value field="totalassets">1930115000000</value>
+          <value field="totalliabilities">1730534000000</value>
+          <value field="totallongtermdebt">255077000000</value>
+          <value field="totalreceivablesnet">982574000000</value>
+          <value field="totalshorttermdebt">96781000000</value>
+          <value field="totalstockholdersequity">199581000000</value>
+          <value field="treasurystock">-22713000000</value>
+        </values>
+      </row>
+      <row>
+        <rownum>4</rownum>
+        <values>
+          <value field="taxonomyid">50</value>
+          <value field="cik">0000072971</value>
+          <value field="companyname">WELLS FARGO &amp; COMPANY/MN</value>
+          <value field="entityid">8130</value>
+          <value field="primaryexchange">NYSE</value>
+          <value field="marketoperator">NYSE</value>
+          <value field="markettier">NYSE</value>
+          <value field="primarysymbol">WFC</value>
+          <value field="siccode">6021</value>
+          <value field="sicdescription">National Commercial Banks</value>
+          <value field="usdconversionrate">1</value>
+          <value field="restated">false</value>
+          <value field="receiveddate">3/1/2018</value>
+          <value field="preliminary">false</value>
+          <value field="periodlengthcode">m</value>
+          <value field="periodlength">12</value>
+          <value field="periodenddate">12/31/2015</value>
+          <value field="original">false</value>
+          <value field="formtype">10-K</value>
+          <value field="fiscalyear">2015</value>
+          <value field="fiscalquarter">4</value>
+          <value field="dcn">0000072971-18-000272</value>
+          <value field="currencycode">USD</value>
+          <value field="crosscalculated">false</value>
+          <value field="audited">true</value>
+          <value field="amended">false</value>
+          <value field="changeincurrentassets">-4604000000</value>
+          <value field="changeincurrentliabilities">-1503000000</value>
+          <value field="dividendspaid">-8826000000</value>
+          <value field="cashfromfinancingactivities">90871000000</value>
+          <value field="cashfrominvestingactivities">-107235000000</value>
+          <value field="cashfromoperatingactivities">15904000000</value>
+          <value field="cfdepreciationamortization">3288000000</value>
+          <value field="investmentchangesnet">-27753000000</value>
+          <value field="netchangeincash">-460000000</value>
+          <value field="totaladjustments">-7372000000</value>
+          <value field="equityearnings">2230000000</value>
+          <value field="incomebeforetaxes">31411000000</value>
+          <value field="netincome">22894000000</value>
+          <value field="netincomeapplicabletocommon">21470000000</value>
+          <value field="totalrevenue">81385000000</value>
+          <value field="sellinggeneraladministrativeexpenses">30681000000</value>
+          <value field="commonstock">9136000000</value>
+          <value field="cashandcashequivalents">19111000000</value>
+          <value field="cashcashequivalentsandshortterminvestments">289241000000</value>
+          <value field="goodwill">25529000000</value>
+          <value field="minorityinterest">893000000</value>
+          <value field="otherassets">126892000000</value>
+          <value field="othercurrentliabilities">1223312000000</value>
+          <value field="otherequity">-1362000000</value>
+          <value field="otherliabilities">13920000000</value>
+          <value field="preferredstock">22214000000</value>
+          <value field="propertyplantequipmentnet">8704000000</value>
+          <value field="retainedearnings">120866000000</value>
+          <value field="totalassets">1787632000000</value>
+          <value field="totalliabilities">1594634000000</value>
+          <value field="totallongtermdebt">199536000000</value>
+          <value field="totalreceivablesnet">924896000000</value>
+          <value field="totalshorttermdebt">97528000000</value>
+          <value field="totalstockholdersequity">192998000000</value>
+          <value field="treasurystock">-18867000000</value>
+        </values>
+      </row>
+      <row>
+        <rownum>5</rownum>
+        <values>
+          <value field="taxonomyid">50</value>
+          <value field="cik">0000072971</value>
+          <value field="companyname">WELLS FARGO &amp; COMPANY/MN</value>
+          <value field="entityid">8130</value>
+          <value field="primaryexchange">NYSE</value>
+          <value field="marketoperator">NYSE</value>
+          <value field="markettier">NYSE</value>
+          <value field="primarysymbol">WFC</value>
+          <value field="siccode">6021</value>
+          <value field="sicdescription">National Commercial Banks</value>
+          <value field="usdconversionrate">1</value>
+          <value field="restated">false</value>
+          <value field="receiveddate">3/1/2017</value>
+          <value field="preliminary">false</value>
+          <value field="periodlengthcode">m</value>
+          <value field="periodlength">12</value>
+          <value field="periodenddate">12/31/2014</value>
+          <value field="original">false</value>
+          <value field="formtype">10-K</value>
+          <value field="fiscalyear">2014</value>
+          <value field="fiscalquarter">4</value>
+          <value field="dcn">0000072971-17-000278</value>
+          <value field="currencycode">USD</value>
+          <value field="crosscalculated">false</value>
+          <value field="audited">true</value>
+          <value field="amended">false</value>
+          <value field="changeincurrentassets">-11066000000</value>
+          <value field="changeincurrentliabilities">6778000000</value>
+          <value field="dividendspaid">-8143000000</value>
+          <value field="cashfromfinancingactivities">110503000000</value>
+          <value field="cashfrominvestingactivities">-128380000000</value>
+          <value field="cashfromoperatingactivities">17529000000</value>
+          <value field="cfdepreciationamortization">2515000000</value>
+          <value field="investmentchangesnet">-21667000000</value>
+          <value field="netchangeincash">-348000000</value>
+          <value field="totaladjustments">-6079000000</value>
+          <value field="equityearnings">2380000000</value>
+          <value field="incomebeforetaxes">31535000000</value>
+          <value field="netincome">23057000000</value>
+          <value field="netincomeapplicabletocommon">21821000000</value>
+          <value field="totalrevenue">80572000000</value>
+          <value field="sellinggeneraladministrativeexpenses">29942000000</value>
+          <value field="commonstock">9136000000</value>
+          <value field="cashandcashequivalents">19571000000</value>
+          <value field="cashcashequivalentsandshortterminvestments">278000000000</value>
+          <value field="goodwill">25705000000</value>
+          <value field="minorityinterest">868000000</value>
+          <value field="otherassets">113037000000</value>
+          <value field="othercurrentliabilities">1168310000000</value>
+          <value field="otherequity">-1360000000</value>
+          <value field="preferredstock">19213000000</value>
+          <value field="propertyplantequipmentnet">8743000000</value>
+          <value field="retainedearnings">107040000000</value>
+          <value field="totalassets">1687155000000</value>
+          <value field="totalliabilities">1502761000000</value>
+          <value field="totallongtermdebt">183943000000</value>
+          <value field="totalreceivablesnet">870490000000</value>
+          <value field="totalshorttermdebt">63518000000</value>
+          <value field="totalstockholdersequity">184394000000</value>
+          <value field="treasurystock">-13690000000</value>
+        </values>
+      </row>
+    </rows>
+  </result>
+</response>
