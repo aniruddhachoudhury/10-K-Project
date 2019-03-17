@@ -55,37 +55,50 @@ data=pd.concat([x,y],axis=1,ignore_index=False)
 #data1=data1.reindex(data1.index.drop(0))
 
 
-D4=data.iloc[:61,:].values
-D4=pd.DataFrame(D4)
-D4=D4.T
-D4.columns = D4.iloc[0]
-D4=D4.reindex(D4.index.drop(0))
+def dataframess(D):
+    D=pd.DataFrame(D)
+    D=D.T
+    D.columns = D.iloc[0]
+    D=D.reindex(D.index.drop(0))
+    return D
+
+   
+def splitt(D):
+    Size=61
+    lists=[D.loc[i:i+Size-1,:] for i in range(0,len(data),Size)]
+    return lists
 
 
-D3=data.iloc[61:122,:].values
-D3=pd.DataFrame(D3)
-D3=D3.T
-D3.columns = D3.iloc[0]
-D3=D3.reindex(D3.index.drop(0))
+
+list_of_Data=splitt(data)
+
+#D4=data.iloc[:61,:].values
+D4=list_of_Data[0].as_matrix()
+D4=dataframess(D4)
 
 
-D2=data.iloc[122:183,:].values
-D2=pd.DataFrame(D2)
-D2=D2.T
-D2.columns = D2.iloc[0]
-D2=D2.reindex(D2.index.drop(0))
 
-D1=data.iloc[183:244,:].values
-D1=pd.DataFrame(D1)
-D1=D1.T
-D1.columns = D1.iloc[0]
-D1=D1.reindex(D1.index.drop(0))
 
-D0=data.iloc[244:304,:].values
-D0=pd.DataFrame(D0)
-D0=D0.T
-D0.columns = D0.iloc[0]
-D0=D0.reindex(D0.index.drop(0))
+#D3=data.iloc[61:122,:].values
+D3=list_of_Data[1].as_matrix()
+D3=dataframess(D3)
+
+
+
+#D2=data.iloc[122:183,:].values
+D2=list_of_Data[2].as_matrix()
+D2=dataframess(D2)
+
+
+#D1=data.iloc[183:244,:].values
+D1=list_of_Data[3].as_matrix()
+D1=dataframess(D1)
+
+
+#D0=data.iloc[244:304,:].values
+D0=list_of_Data[4].as_matrix()
+D0=dataframess(D0)
+
 
 D0,D1=D0.align(D1,axis=1,fill_value=0)
 D2,D1=D2.align(D1,axis=1,fill_value=0)
