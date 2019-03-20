@@ -30,19 +30,28 @@ root.attrib
 
 l=list()
 r=list()
+q=list()
 for child in root:
     l.append(child.tag)
     r.append(child.text)
+    q.append(child.attrib)
     print (child.tag, child.text)
     
 x=pd.DataFrame(l)
 y=pd.DataFrame(r)
-data=pd.concat([x,y],axis=1,ignore_index=True)
+z=pd.DataFrame(q)
+z=z.iloc[:13635,:3]
+del z['decimals']
+del z['id']
+data=pd.concat([x,y,z],axis=1,ignore_index=True)
 data1=data.dropna(axis=0, subset=[0])
 
+data.columns=['a','b','c']
 
 
-data.columns=['a','b']
+data['FYdate'] = data['c'].str.split('_').str[0]
+del data['d']
+
 
 to_drop=["<div"]
 data1=data[~data['a'].str.contains("{http://www.xbrl.org/2003/instance}context")]
@@ -106,21 +115,32 @@ data_new4=reset(data_new4)
 D=[data_new1,data_new2,data_new3,data_new4]
 newtable=pd.concat(D)
 
+
+
 cols=list(newtable)
-cols.insert(0,cols.pop(cols.index('attributes')))
+cols.insert(1,cols.pop(cols.index('attributes')))
 newtable=newtable.ix[:,cols]
 newtable=newtable.reset_index()
-
 del newtable['index']
 
 
-del data1['text_new']
-data1['text_new'] = data1['a'].str.split('{http://xbrl.sec.gov/dei/').str[1]
 
-newtable.columns=['Attributes','Values','Data']
+cols=list(newtable)
+cols.insert(0,cols.pop(cols.index('FYdate')))
+newtable=newtable.ix[:,cols]
+newtable=newtable.reset_index()
+del newtable['index']
 
+
+#del data1['text_new']
+#data1['text_new'] = data1['a'].str.split('{http://xbrl.sec.gov/dei/').str[1]
+new=newtable
+newtable.columns=['FinancialYear','Attributes','FinancialData','ContextInfo','YearofReport']
+del newtable['ContextInfo']
 newtable.to_csv('final.csv',index=False)
 
+transpose_newtable=newtable.T
+transpose_newtable.to_csv('transpose_table.csv',index=False)
 
 
 
