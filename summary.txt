@@ -1,0 +1,131 @@
+We generate revenue by licensing and supporting an array of software products, by offering a wide range of services, including cloud-based services to consumers and businesses, by designing, manufacturing, and selling devices that integrate with our cloud-based services, and by delivering relevant online advertising to a global audience.
+Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services; datacenter costs in support of our cloud-based services; and income taxes.
+As anticipated, our change in phone strategy resulted in a reduction in units sold and associated expenses in fiscal year 2016, and this trend is expected to continue in fiscal year 2017.
+The strengthening of the U.S. dollar relative to certain foreign currencies throughout fiscal year 2015, and continuing into fiscal year 2016, negatively impacted reported revenue and reduced reported expenses from our international operations.
+Our revenue historically has fluctuated quarterly and has generally been highest in the second quarter of our fiscal year due to corporate calendar year-end spending trends in our major markets and holiday season spending by consumers.
+Due to the growth in our cloud-based solutions, service revenue exceeded 10% of total revenue for the first time in fiscal year 2016.
+Product revenue includes sales from operating systems; cross-device productivity applications; server applications; business solution applications; desktop and server management tools; software development tools; video games; hardware such as PCs, tablets, gaming and entertainment consoles, phones, other intelligent devices, and related accessories; and training and certification of computer system integrators and developers.
+Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics CRM Online, and Xbox Live; solution support; and consulting services.
+As a result, beginning in fiscal year 2016, we report our financial performance based on our new segments, Productivity and Business Processes, Intelligent Cloud, and More Personal Computing, and analyze operating income as the measure of segment profitability.
+Revenue decreased $8.3 billion or 9%, primarily due to the impact of the net revenue deferral from Windows 10 of $6.6 billion and an unfavorable foreign currency impact of approximately $3.8 billion or 4%.
+More Personal Computing revenue decreased, mainly due to lower revenue from Devices and Windows, offset in part by higher revenue from search advertising and Gaming.
+Operating income increased $2.0 billion or 11%, primarily due to a decrease in impairment, integration, and restructuring expenses and sales and marketing expenses, offset in part by lower gross margin.
+Gross margin decreased $8.0 billion or 13%, driven by the decline in revenue as discussed above, and included an unfavorable foreign currency impact of approximately $3.3 billion or 5%.
+Productivity and Business Processes and More Personal Computing gross margin decreased, offset in part by higher gross margin from Intelligent Cloud.
+Cost of revenue decreased $258 million or 1%, mainly due to a reduction in phone sales, driven by the change in strategy for the phone business, offset in part by growth in commercial cloud and search advertising.
+Impairment, integration, and restructuring expenses decreased $8.9 billion, primarily driven by prior year goodwill and asset impairment charges related to our phone business and restructuring charges associated with our phone business restructuring plans.
+Sales and marketing expenses decreased $1.0 billion or 6%, driven by a reduction in phone expenses and a favorable foreign currency impact of approximately 2%.
+Current year diluted EPS was negatively impacted by the net revenue deferral from Windows 10 and impairment, integration, and restructuring expenses, which resulted in a decrease to diluted EPS of $0.69, and favorably impacted by the adoption of new accounting guidance related to stock-based compensation, which resulted in an increase to diluted EPS of $0.05.
+Prior year diluted EPS was negatively impacted by impairment, integration, and restructuring expenses, which resulted in a decrease to diluted EPS of $1.15.
+Revenue increased $6.7 billion or 8%, primarily due to higher revenue from More Personal Computing and Intelligent Cloud.
+More Personal Computing revenue increased, primarily due to higher revenue from Devices, search advertising and Gaming, offset in part by a decline in Windows revenue.
+Operating income decreased $9.6 billion or 35%, primarily due to impairment, integration, and restructuring expenses in fiscal year 2015, as well as increased research and development expenses, offset in part by higher gross margin.
+Gross margin increased $787 million or 1%, driven by our Intelligent Cloud, offset in part by a reduction in gross margin from Productivity and Business Processes.
+Cost of revenue increased $6.0 billion or 22%, mainly due to phone sales, as well as increasing costs in support of our commercial cloud, including $396 million of higher datacenter expenses.
+Impairment, integration, and restructuring expenses were $10.0 billion in fiscal year 2015, reflecting goodwill and asset impairment charges of $7.5 billion related to our phone business, and $2.5 billion of integration and restructuring expenses, primarily driven by costs associated with our phone business restructuring plans.
+Research and development expenses increased $665 million or 6%, mainly due to increased investment in new products and services, including phone expenses, offset in part by reduced headcount-related expenses.
+Office Commercial revenue increased $135 million or 1%, driven by higher revenue from Office 365 commercial, mainly due to growth in subscribers, offset by lower transactional license volume, reflecting a continued shift to Office 365 commercial and a decline in the business PC market.
+Office Consumer revenue decreased $69 million or 2%, driven by a decline in the consumer PC market, offset in part by higher revenue from Office 365 consumer, mainly due to growth in subscribers.
+Productivity and Business Processes operating income decreased $898 million or 7%, driven by lower gross margin.
+Gross margin decreased $970 million or 4%, primarily due to higher cost of revenue.
+Operating expenses decreased $72 million or 1%, driven by lower sales and marketing expenses.
+Sales and marketing expenses decreased $82 million or 2%, mainly due to a reduction in headcount-related expenses and lower fees paid to third-party enterprise software advisors.
+Intelligent Cloud revenue increased $1.3 billion or 6%, primarily due to higher server products and cloud services revenue and Enterprise Services revenue.
+Intelligent Cloud operating income decreased $513 million or 5%, primarily due to higher operating expenses, offset in part by higher gross margin.
+Operating expenses increased $989 million or 12%, mainly due to higher research and development expenses and sales and marketing expenses.
+Gross margin increased $476 million or 3%, driven by revenue growth, offset in part by higher cost of revenue.
+Cost of revenue increased $851 million or 15%, primarily driven by an increased mix of cloud services.
+More Personal Computing revenue decreased $2.7 billion or 6%, mainly due to lower revenue from Devices and Windows, offset in part by higher revenue from search advertising and Gaming.
+Devices revenue decreased $3.7 billion or 32%, mainly due to lower revenue from phones, driven by the change in strategy for the phone business, offset in part by higher Microsoft Surface (“Surface”) revenue.
+Surface revenue increased $486 million or 13%, primarily driven by the release of Surface Pro 4 and Surface Book in the second quarter of fiscal year 2016, as well as the release of Surface 3 in the fourth quarter of fiscal year 2015, offset in part by a decline in revenue from Surface Pro 3.
+Windows OEM non-Pro revenue increased 7%, outperforming the consumer PC market, driven by a higher mix of premium licenses sold.
+Search advertising revenue, excluding traffic acquisition costs, increased 17%, primarily driven by growth in Bing, due to higher revenue per search and search volume.
+Gaming revenue increased $132 million or 1%, primarily due to higher revenue from Xbox Live and video games, offset in part by lower Xbox hardware revenue.
+Xbox hardware revenue decreased 16%, mainly due to lower prices of Xbox One consoles sold and a decline in Xbox 360 console volume, offset in part by higher Xbox One console volume.
+More Personal Computing operating income increased $1.5 billion or 32%, primarily due to lower operating expenses, offset in part by lower gross margin.
+Operating expenses decreased $2.0 billion or 13%, mainly due to lower sales and marketing expenses and research and development expenses.
+Sales and marketing expenses decreased $1.3 billion or 19% and research and development expenses decreased $676 million or 10%, driven by a reduction in phone expenses.
+Gross margin decreased $564 million or 3%, reflecting lower revenue, offset in part by a reduction in cost of revenue.
+Cost of revenue decreased $2.1 billion or 9%, primarily driven by a reduction in phone sales, offset in part by higher search advertising cost of revenue.
+Productivity and Business Processes revenue decreased $546 million or 2%, mainly due to a decline in revenue from Office, offset in part by growth in revenue from Dynamics.
+Office Consumer revenue decreased $624 million or 17%, driven by declines in the Japan PC market, where Office is predominantly pre-installed on new PCs, offset in part by subscriber growth of Office 365 consumer.
+Office Commercial revenue decreased $152 million or 1%, driven by lower transactional license volume, reflecting a decline in the business PC market following Windows XP end of support in the prior year, and declines in Japan, offset in part by subscriber growth and higher premium mix of Office 365 commercial.
+Productivity and Business Processes operating income decreased $814 million or 6%, driven by lower gross margin, offset in part by a reduction in operating expenses.
+Gross margin decreased $1.0 billion or 4%, primarily due to the decline in Office Consumer revenue.
+Cost of revenue increased $492 million or 15%, primarily due to higher cloud infrastructure expenses, reflecting increased datacenter capacity to serve our Office 365 offerings.
+Sales and marketing and general and administrative expenses decreased $258 million and $125 million, respectively, mainly due to lower headcount-related expenses.
+Server products and cloud services revenue grew $1.6 billion or 9%, primarily driven by higher premium mix of Microsoft SQL Server, Windows Server, and System Center, as well as continued revenue growth from Azure.
+Intelligent Cloud operating income increased $1.4 billion or 17%, primarily due to higher gross margin, offset in part by higher operating expenses.
+Gross margin increased $1.6 billion or 10%, driven by revenue growth from our server products and services.
+Cost of revenue increased $404 million or 7%, mainly due to higher cloud infrastructure expenses, reflecting increased datacenter capacity for our Azure services.
+Operating expenses increased $151 million or 2%, driven by higher research and development expenses.
+Research and development expenses increased $160 million or 6%, mainly due to increased investment in new products and services.
+Research and development expenses increased $160 million or 6%, mainly due to increased investment in new products and services.
+More Personal Computing revenue increased $4.7 billion or 12%, mainly due to growth in Devices, search advertising, and Gaming revenue, offset in part by a decline in revenue from Windows.
+Devices revenue increased $7.0 billion or 152%, mainly due to a full year of phone sales and higher Surface revenue.
+Phones revenue increased $5.5 billion, as we sold 36.8 million Lumia phones and 126.8 million other phones in fiscal year 2015, compared with 5.8 million and 30.3 million sold, respectively, in fiscal year 2014 following the acquisition of Nokia Corporation’s (“Nokia”) Devices and Services business (“NDS”).
+Search advertising revenue increased $651 million or 22%, primarily driven by growth in Bing, due to higher revenue per search and search volume.
+Video games revenue increased $265 million, mainly due to sales of Minecraft following the acquisition of Mojang in November 2014, and new Xbox titles released in the current year.
+Windows OEM Pro revenue decreased, primarily due to benefits realized from the expiration of support for Windows XP in the prior year, and declines in the
+Windows OEM non-Pro revenue declined, mainly due to an increased mix of opening price point devices sold, and declines in the consumer PC market.
+Windows Phone revenue, including related patent licensing, decreased $1.4 billion or 55%, primarily due to prior year revenue associated with our joint strategic initiatives with Nokia that terminated when we acquired NDS.
+More Personal Computing operating income decreased $938 million or 17%, primarily due to higher operating expenses, as well as a reduction in gross margin.
+Gross margin decreased $364 million or 2%, reflecting a reduction in Windows gross margin, offset in part by an increase in devices gross margin.
+Phones cost of revenue increased $4.8 billion, reflecting a full year of phone sales in fiscal year 2015.
+Windows Phone cost of revenue decreased $897 million, driven by prior year costs associated with our joint strategic initiatives with Nokia that terminated when we acquired NDS.
+Operating expenses increased $574 million or 4%, driven by a full year of NDS expenses.
+Research and development expenses increased $346 million or 5%, mainly due to increased investment in new product and services, including higher phone expenses, offset in part by reduced headcount-related expenses.
+Sales and marketing expenses increased $211 million or 3%, primarily due to higher phone expenses, offset in part by a decline in advertising and other marketing program costs.
+Corporate and Other revenue primarily comprises certain revenue deferrals, including those related to Windows 10, Bundled Offerings, and video games.
+Corporate and Other operating income (loss) primarily comprises revenue deferrals and corporate-level activity not specifically allocated to a segment, including impairment, integration, and restructuring expenses.
+Corporate and Other revenue decreased $6.9 billion, primarily due to the impact of the net revenue deferral from Windows 10.
+During fiscal year 2016, we deferred net revenue from Windows 10 of $6.6 billion.
+Corporate and Other operating loss decreased $2.0 billion, primarily due to an $8.9 billion reduction in impairment, integration, and restructuring expenses, driven by prior year goodwill and asset impairment charges related to our phone business, offset in part by lower revenue.
+Corporate and Other revenue increased $613 million, primarily due to the timing of net revenue deferrals compared to the prior year.
+During fiscal year 2015, we recognized a net $303 million of previously deferred revenue related to Bundled Offerings.
+During fiscal year 2015, we recognized a net $303 million of previously deferred revenue related to Bundled Offerings.
+During fiscal year 2014, we deferred a net $349 million of revenue related to Bundled Offerings.
+Corporate and Other operating loss increased $9.3 billion, primarily due to higher impairment, integration, and restructuring expenses, offset in part by increased revenue.
+Research and development expenses decreased $58 million, primarily due to a reduction in phone expenses, driven by the change in strategy for the phone business, offset in part by increased strategic investments and acquisitions to drive cloud innovation.
+Research and development expenses increased $665 million or 6%, mainly due to increased investment in new products and services, including $739 million higher phone expenses, offset in part by reduced headcount-related expenses.
+Sales and marketing expenses decreased $1.0 billion or 6%, primarily due to a reduction in phone expenses, driven by the change in strategy for the phone business.
+Sales and marketing expenses decreased $98 million or 1%, primarily due to a decline in advertising and marketing programs costs and a reduction in headcount-related expenses, offset in part by an increase in phone expenses.
+General and administrative expenses decreased $48 million or 1%, primarily due to a reduction in employee-related expenses, offset in part by increased investments in infrastructure supporting our business transformation.
+During fiscal year 2016, we recorded $630 million of asset impairment charges related to our phone business.
+We also recorded $480 million of restructuring charges, including employee severance expenses and contract termination costs, primarily related to our previously announced phone business restructuring plans.
+During fiscal year 2015, we recognized impairment charges of $7.5 billion related to our phone business.
+Impairment, integration, and restructuring expenses were $10.0 billion for fiscal year 2015, compared to $127 million for fiscal year 2014.
+Impairment, integration, and restructuring expenses for fiscal year 2015 are comprised mainly of impairment and restructuring charges of $7.5 billion and $2.1 billion, respectively, related to our phone business.
+Integration expenses increased $308 million, due to a full-year of integration activities in fiscal year 2015 associated with the acquisition of NDS.
+We use derivative instruments to: manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification.
+Gains and losses from changes in fair values of derivatives that are not designated as hedges are primarily recognized in other income (expense), net.
+Other than those derivatives entered into for investment purposes, such as commodity contracts, the gains (losses) are generally economically offset by unrealized gains (losses) in the underlying available-for-sale securities and gains (losses) on certain balance sheet amounts from foreign exchange rate changes.
+Net recognized gains on investments decreased primarily due to higher other-than-temporary impairments and lower gains on sales of fixed-income securities, offset in part by higher gains on sales of equity securities.
+Net losses on derivatives increased due to higher losses on currency and equity contracts and lower gains on interest rate contracts in the current period as compared to the prior period, offset in part by lower losses on commodity contracts.
+Net recognized gains on investments increased primarily due to higher gains on sales of equity securities, offset in part by higher other-than-temporary impairments.
+Net losses on derivatives increased due to losses on commodity contracts in fiscal year 2015 as compared to gains in fiscal year 2014, offset in part by lower losses on currency and equity contracts.
+The decrease in our effective tax rate for fiscal year 2016 compared to fiscal year 2015 was primarily due to changes in the mix of our income before income taxes between the U.S. and foreign countries including the impact of net
+revenue deferrals related to sales of Windows 10, tax benefits from the adoption of the new accounting guidance relating to stock-based compensation, and distributions from foreign affiliates.
+The fiscal year 2015 effective tax rate included the tax impact of losses in foreign jurisdictions for which we may not realize a tax benefit, primarily as a result of impairment and restructuring charges.
+The mix of income before income taxes between the U.S. and foreign countries impacted our effective tax rate as a result of the geographic distribution of, and customer demand for, our products and services.
+In fiscal year 2016, our U.S. loss before income taxes was $325 million and our foreign income before income taxes was $20.1 billion.
+Net revenue deferrals related to sales of Windows 10 negatively impacted our fiscal year 2016 U.S. loss before income taxes by $6.0 billion and foreign income before income taxes by $588 million.
+Impairment, integration, and restructuring expense relating to our phone business decreased our fiscal year 2015 U.S income before income taxes by $1.1 billion and foreign income before income taxes by $8.9 billion.
+This decrease relates primarily to tax credits available for carryover and a partial settlement of the IRS audit for tax years 2007 to 2009, offset by increases relating to intercompany transfer pricing.
+The fiscal year 2015 effective rate increased by 13%, primarily due to goodwill and asset impairments and restructuring charges recorded in fiscal year 2015, most of which did not generate a tax benefit.
+In fiscal year 2015, this reduction was mostly offset by losses in foreign jurisdictions for which we may not realize a tax benefit, primarily as a result of impairment and restructuring charges.
+Changes in the mix of income before income taxes between the U.S. and foreign countries impacted our effective tax rate as a result of the geographic distribution of, and customer demand for, our products and services.
+Of the cash, cash equivalents, and short-term investments as of June 30, 2016, $108.9 billion was held by our foreign subsidiaries and would be subject to material repatriation tax effects.
+The amount of cash, cash equivalents, and short-term investments held by foreign subsidiaries subject to other restrictions on the free flow of funds (primarily currency and other local regulatory) was $2.4 billion.
+In general, and where applicable, we use quoted prices in active markets for identical assets or liabilities to determine the fair value of our financial instruments.
+Cash flows from operations increased $3.7 billion to $33.3 billion during the fiscal year, mainly due to lower operating expenditures and a reduction in materials and production costs, offset in part by a decrease in cash received from customers.
+Cash flows from operations decreased $2.8 billion to $29.7 billion, mainly due to an increase in materials and production costs in support of sales growth as well as payments related to restructuring charges and other changes in working capital, offset in part by increases in cash received from customers.
+Unearned revenue as of June 30, 2016 also included payments for: Windows 10 licenses; post-delivery support and consulting services to be performed in the future; Office 365 subscriptions; Xbox Live subscriptions; Microsoft Dynamics business solutions products; Skype prepaid credits and subscriptions; Bundled Offerings; and other offerings for which we have been paid in advance and earn the revenue when we provide the service or software, or otherwise meet the revenue recognition criteria.
+Should we require more capital in the U.S. than is generated by our operations domestically, for example to fund significant discretionary activities, such as business acquisitions and share repurchases, we could elect to repatriate future earnings from foreign jurisdictions or raise capital in the U.S. through debt or equity issuances.
+Preparing consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses.
+Critical accounting policies for us include revenue recognition, impairment of investment securities, goodwill, research and development costs, contingencies, income taxes, and inventories.
+Accordingly, revenue from licenses of Windows 10 is recognized ratably over the estimated life of the related device, which ranges between two to four years.
+We also consider specific adverse conditions related to the financial health of and business outlook for the investee, including industry and sector performance, changes in technology, and operational and financing cash flow factors.
+Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded to other income (expense), net and a new cost basis in the investment is established.
+This analysis requires significant judgments, including estimation of future cash flows, which is dependent on internal forecasts, estimation of the long-term rate of growth for our business, estimation of the useful life over which cash flows will occur, and determination of our weighted average cost of capital.
+The estimates used to calculate the fair value of a reporting unit change from year to year based on operating results, market conditions, and other factors.

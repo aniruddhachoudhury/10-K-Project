@@ -53,3 +53,15 @@ extractedtext='\n'.join(output_Data)
 textfile = open('textfile.txt', 'w')
 textfile.write(extractedtext)
 textfile.close()
+
+#summarize of the item 7
+from gensim.summarization import summarize
+print (summarize(extractedtext))
+summary=summarize(extractedtext)
+
+#Save the extracted summary text in the output text file
+textfile = open('summary.txt', 'w')
+textfile.write(summary)
+textfile.close()
+
+
